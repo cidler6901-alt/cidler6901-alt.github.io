@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1459409676461674558?idleMessage=i'm%20probably%20offline%20or%20AFK&theme=dark&showDisplayName=true&borderRadius=10x&animatedDecoration=false&animated=false)](https://discord.com/users/1459409676461674558)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1459409676461674558?theme=dark&borderRadius=10x&showDisplayName=true&animated=false&animatedDecoration=false&idleMessage=I'm%20not%20doing%20any%20thing%20RN)](https://discord.com/users/1459409676461674558)
